@@ -22,7 +22,7 @@ Skills:  REACT / JS / HTML / CSS/ BOOTSTREP/ API/ JSON
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://saideehasan-coding.github.io/temperature-hot-master/)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://saideehasan-coding.github.io/temperature-hot-master/&show_icons=true)  
+![GitHub stats](https://github.com/saideehasan-coding)  
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://saideehasan-coding.github.io/temperature-hot-master//contributions?format=svg&private=false)  
 
